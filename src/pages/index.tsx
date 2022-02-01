@@ -16,8 +16,8 @@ import Seo from '@/components/Seo';
  */
 import Vercel from '~/svg/Vercel.svg';
 
-// !STARTERCONF -> Select !STARTERCONF and CMD + SHIFT + F
-// Before you begin editing, follow all comments with `STARTERCONF`,
+// -> Select and CMD + SHIFT + F
+// Before you begin editing, follow all comments with ``,
 // to customize the default configuration.
 
 export default function HomePage() {
