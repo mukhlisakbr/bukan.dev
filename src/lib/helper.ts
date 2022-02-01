@@ -12,7 +12,7 @@ export function openGraph({
   templateTitle,
   description,
   // Or, you can use my server with your own logo.
-  logo = 'https://bukan.dev/favicon/large-og.png',
+  logo = 'https://bukan.dev/images/logo.png',
 }: OpenGraphType): string {
   const ogLogo = encodeURIComponent(logo);
   const ogSiteName = encodeURIComponent(siteName.trim());
