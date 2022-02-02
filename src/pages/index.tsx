@@ -29,8 +29,8 @@ export default function HomePage() {
               useSkeleton
               className='w-32 md:w-40'
               src='/images/logo.png'
-              width='180'
-              height='180'
+              width='500'
+              height='500'
               alt='Logo'
             />
             <h1 className='mt-8'>Crafting Digital Products</h1>
