@@ -51,6 +51,7 @@ export default function NextImage({
         height={height}
         alt={alt}
         onLoadingComplete={() => setStatus('complete')}
+        layout='responsive'
         {...rest}
       />
     </figure>
